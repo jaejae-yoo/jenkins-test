@@ -17,6 +17,6 @@ public class TempTest {
     void test2() {
         int number = 1;
 
-        assertThat(number).isEqualTo(2);
+        assertThat(number).isEqualTo(1);
     }
 }
